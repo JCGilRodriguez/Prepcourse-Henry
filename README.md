@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Est es un reositorio de prueva del modulo dos del Prepcourse de henry
+Este Proyecto es una prueva de como crear nuestro repositorio y clonarlo. desde hithub a mi escritorio local
